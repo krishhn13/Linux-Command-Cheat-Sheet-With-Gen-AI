@@ -11,7 +11,7 @@
 
 # === CONFIGURATION ===
 API_KEY="AIzaSyCg4F7b787Z7uTIZckafqdE914daFE8W10"
-GEMINI_URL="https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=$API_KEY"
+GEMINI_URL="https://generativelanguage.googleapis.com/v1/models/gemini-1.5-pro-001:generateContent?key=$API_KEY"
 
 # === DEPENDENCY CHECK ===
 for tool in dialog jq curl; do
