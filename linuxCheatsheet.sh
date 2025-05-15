@@ -2,7 +2,8 @@
 
 # ---------------------------------------------------------
 # Gemini-Powered Linux Command Reference Tool
-# Author: Prashant Singh Gautam
+# Submitted To: Prashant Singh Gautam, Dr Dinesh Vij
+# Submitted By: G20-PID-02(2310990467,2310991758,2310991761,2310991822)
 # Description:
 #   Shell-based utility to explain Linux commands using
 #   Google Gemini AI with Linux facts and elegant display.
